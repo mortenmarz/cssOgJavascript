@@ -1,2 +1,4 @@
-# cssOgJavascript
-Ja va script. 1. semester intro til Javascript
+# Responsiv CSS og introduktion til JavaScript
+
+Her er filerne til Værktøjskasse 3.
+
